@@ -47,6 +47,12 @@
            android:contentDescription="@string/disconnect_call"
            android:layout_width="48dp"
            android:layout_height="48dp"/>
+        <ImageButton
+            android:id="@+id/button_screen_shot"
+            android:background="@drawable/ic_screen_shot"
+            android:contentDescription="@string/screen_shot"
+            android:layout_width="48dp"
+            android:layout_height="48dp"/>
     </LinearLayout>
 
     <TextView
